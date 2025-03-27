@@ -1,0 +1,7 @@
+E:\Projects\Azure Application\2025\ASP\bin\publishNew\WebApplication1.exe
+E:\Projects\Azure Application\2025\ASP\bin\publishNew\appsettings.Development.json
+E:\Projects\Azure Application\2025\ASP\bin\publishNew\appsettings.json
+E:\Projects\Azure Application\2025\ASP\bin\publishNew\WebApplication1.dll
+E:\Projects\Azure Application\2025\ASP\bin\publishNew\WebApplication1.deps.json
+E:\Projects\Azure Application\2025\ASP\bin\publishNew\WebApplication1.runtimeconfig.json
+E:\Projects\Azure Application\2025\ASP\bin\publishNew\WebApplication1.pdb
